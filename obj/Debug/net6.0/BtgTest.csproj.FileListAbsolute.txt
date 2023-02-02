@@ -1,0 +1,15 @@
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\BtgTest.exe
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\BtgTest.deps.json
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\BtgTest.runtimeconfig.json
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\BtgTest.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\ref\BtgTest.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\bin\Debug\net6.0\BtgTest.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.AssemblyInfo.cs
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\ref\BtgTest.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\BtgTest\obj\Debug\net6.0\BtgTest.genruntimeconfig.cache
